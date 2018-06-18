@@ -1,0 +1,31 @@
+body {
+    background: url(body.png);
+}
+
+.jumbotron {
+    color: white;
+    background: rgb(93, 233, 128);
+    border: 2px solid rgb(24, 194, 8);
+}
+
+form,
+table {
+    border: 2px solid rgb(167, 157, 157);
+    background: white;
+}
+
+form {
+    padding: 0px 5px 0px 5px;
+}
+
+#submitBtn {
+    margin: 0px 0px 5px 0px;
+}
+
+p {
+    border-bottom: 2px solid white;
+}
+
+table {
+    color: green;
+}
